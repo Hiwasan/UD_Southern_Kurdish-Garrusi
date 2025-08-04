@@ -1,11 +1,11 @@
 # Summary
 
 A dependency treebank in Universal Dependencies (UD) format, derived from narrative and questionnaire texts. This document gives an overview of the annotation scheme, linguistic features, and structural patterns seen in the data.
-This treebank contains annotated sentences in an understudied Kurdish language variety called Garrusi (Indo-European), spoken in western regions of Iran (see Asadpour and Zarei, forthcoming). The data is formatted according to the Universal Dependencies (UD) guidelines (v2.11), with detailed morphosyntactic annotation and dependency structure. The language shows features such as verb serialization, possessive clitics, and light verb constructions.
-Note: This README is based on the current state of the dataset, which includes 1,182 tokens. Some examples and tag distributions reflect larger internal versions of the corpus and might include sentences beyond the publicly released set.
 
 # Introduction
 
+This treebank contains annotated sentences in an understudied Kurdish language variety called Garrusi (Indo-European), spoken in western regions of Iran (see Asadpour and Zarei, forthcoming). The data is formatted according to the Universal Dependencies (UD) guidelines (v2.11), with detailed morphosyntactic annotation and dependency structure. The language shows features such as verb serialization, possessive clitics, and light verb constructions.
+Note: This README is based on the current state of the dataset, which includes 1,182 tokens. Some examples and tag distributions reflect larger internal versions of the corpus and might include sentences beyond the publicly released set.
 
 # Acknowledgments
 
