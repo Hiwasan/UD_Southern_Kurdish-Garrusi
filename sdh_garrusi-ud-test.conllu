@@ -1,0 +1,220 @@
+# sent_id = 80
+# text = Kelişîr dengo dey .
+# translation = (A) cock is crowing.
+1	Kelişîr	Kelişîr	NOUN	_	_	3	nsubj	_	_
+2	dengo	deng	NOUN	_	Number=Sing	3	compound:lvc	_	_
+3	dey	dan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 81
+# text = Kelişîrege bango dey .
+# translation = The cock is crowing.
+1	Kelişîrege	Kelişîr	NOUN	_	Definite=Def|Number=Sing	3	nsubj	_	_
+2	bango	bango	NOUN	_	Number=Sing	3	compound:lvc	_	_
+3	dey	dan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 82
+# text = Yê keleşîre ki ewse bango dey .
+# translation = (There) is a cock which, that’s it, is crowing.
+1	Yê	Yê	NUM	_	Definite=Ind	2	nummod	_	_
+2-3	keleşîre	_	_	_	_	_	_	_	_
+2	keleşîr	keleşîr	NOUN	_	Number=Sing	3	nsubj	_	_
+3	e	e	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	acl:relcl	_	_
+4	ki	ki	PRON	_	_	7	nsubj	_	_
+5	ewse	ewse	PRON	_	_	7	obl	_	_
+6	bango	bang	NOUN	_	Number=Sing	7	compound:lvc	_	_
+7	dey	dan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 83
+# text = Keleşîrege leyre bango dey .
+# translation = The cock is crowing here.
+1	Keleşîrege	Keleşîr	NOUN	_	Definite=Def|Number=Sing	4	nsubj	_	_
+2	leyre	leyre	ADV	_	_	4	obl	_	_
+3	bango	bang	NOUN	_	Number=Sing	4	compound:lvc	_	_
+4	dey	dan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 84
+# text = Yê kelişîrî naw daregan bango dey .
+# translation = A cock is crewing in the trees.
+1	Yê	Yê	NUM	_	Definite=Ind	2	nummod	_	_
+2	kelişîrî	kelişîr	NOUN	_	Definite=Ind|Number=Sing	6	nsubj	_	_
+3	naw	naw	ADP	_	ExtPos=ADP	4	case	_	_
+4	daregan	dar	NOUN	_	Definite=Def|Number=Plur	6	obl	_	_
+5	bango	bang	NOUN	_	Number=Sing	6	compound:lvc	_	_
+6	dey	dan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 85
+# text = Leyre kelişîrege bango dey .
+# translation = Here the cock is crowing.
+1	Leyre	Leyre	ADV	_	_	4	obl	_	_
+2	kelişîrege	kelişîr	NOUN	_	Definite=Def|Number=Sing	4	nsubj	_	_
+3	bango	bang	NOUN	_	Number=Sing	4	compound:lvc	_	_
+4	dey	dan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 87
+# text = Yê baqîye weyre kelişîrege le nawî bango dey .
+# translation = (There) is a garden here (where) the cock is crowing inside it.
+1	Yê	Yê	NUM	_	Definite=Ind	2	nummod	_	_
+2-3	baqîye	_	_	_	_	_	_	_	_
+2	baqî	baqî	NOUN	_	_	3	nsubj	_	_
+3	ye	ye	VERB	_	_	0	root	_	_
+4	weyre	weyre	ADV	_	_	3	advmod	_	_
+5	kelişîrege	kelişîr	NOUN	_	Definite=Def|Number=Sing	9	nsubj	_	_
+6	le	le	ADP	_	_	7	case	_	_
+7	nawî	naw	ADP	_	_	9	obl	_	_
+8	bango	bang	NOUN	_	Number=Sing	9	compound:lvc	_	_
+9	dey	dan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	_
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 88
+# text = Ayda hûz e da , kelişîreganî bango dey .
+# translation = Here is a village of course, (where) its cocks crow.
+1	Ayda	Ayda	PRON	_	_	3	obl	_	_
+2	hûz	hûz	NOUN	_	Number=Sing	3	nsubj	_	_
+3	e	e	VERB	_	_	0	root	_	_
+4	da	da	ADV	_	_	3	advmod:emph	_	_
+5	,	,	PUNCT	_	_	3	punct	_	_
+6	kelişîreganî	kelişîr	NOUN	_	Definite=Def|Number=Plur	8	nsubj	_	_
+7	bango	bang	NOUN	_	Number=Sing	8	compound:lvc	_	_
+8	dey	dan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 89
+# text = Yêş ki rikab dey dořî .
+# translation = This (one) is also just pedaling (and) going.
+1	Yêş	Yêş	PRON	_	Number=Sing	4	acl:relcl	_	_
+2	ki	ki	PRON	_	_	4	nsubj	_	_
+3	rikab	rikab	NOUN	_	Number=Sing	4	compound:lvc	_	_
+4	dey	dan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	dořî	řûweyn	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 90
+# text = Zařû’ege řikab dey dîyay .
+# translation = The child pedals (and) comes.
+1	Zařû’ege	Zařû	NOUN	_	Definite=Def|Number=Sing	3	nsubj	_	_
+2	řikab	řikab	NOUN	_	Number=Sing	3	compound:lvc	_	_
+3	dey	dan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	dîyay	hatin	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 91
+# text = Aha ! Rikab da bird rûwey gulabîyege .
+# translation = Aha! (He) pedaled, took the pears (and) went.
+1	Aha	Aha	INTJ	_	_	4	discourse	_	_
+2	!	!	PUNCT	_	_	1	punct	_	_
+3	Rikab	rikab	NOUN	_	Number=Sing	4	compound:lvc	_	_
+4	da	dan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	bird	birdin	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
+6	rûwey	rûweyn	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	_
+7	gulabîyege	gulabî	NOUN	_	Definite=Def|Number=Sing	5	obj	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 92
+# text = Kuřêş ki we duçerxewe řikab deygo .
+# translation = The boy also just pedals up on the bike.
+1	Kuřêş	Kuř	NOUN	_	Number=Sing	6	acl:relcl	_	_
+2	ki	ki	PRON	_	_	6	nsubj	_	_
+3	we	we	ADP	_	ExtPos=ADP	4	case	_	_
+4	duçerxewe	duçerxe	NOUN	_	Number=Sing	6	obl	_	_
+5	řikab	řikab	NOUN	_	Number=Sing	6	compound:lvc	_	_
+6	deygo	dagin	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 93
+# text = Yê dane kuř duçerxe dîrî rikab dey dîyay .
+# translation = A boy (who) has a bike is pedaling (and) coming.
+1	Yê	yê	DET	_	Definite=Ind	2	det	_	_
+2	dane	dane	NOUN	_	_	7	nsubj	_	_
+3	kuř	kuř	PRON	_	Number=Sing|Person=3	5	nsubj	_	_
+4	duçerxe	duçerxe	NOUN	_	_	5	obj	_	_
+5	dîrî	daştin	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl:relcl	_	_
+6	rikab	rikab	NOUN	_	Number=Sing	7	compound:lvc	_	_
+7	dey	dan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	dîyay	hatin	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	_
+9	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 94
+# text = Kuře řikab dey we duçerxi’o geyî .
+# translation = The boy arrived on a bike (while) pedaling. [lit. The boy pedals up (and) arrived with a bike]
+1	Kuře	Kuř	NOUN	_	Definite=Def|Number=Sing	3	nsubj	_	_
+2	řikab	řikab	NOUN	_	Number=Sing	3	compound:lvc	_	_
+3	dey	dan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	we	we	ADP	_	_	5	case	_	_
+5	duçerxi’o	duçerxe	NOUN	_	Number=Sing	6	obl	_	_
+6	geyî	geyştin	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 95
+# text = Yê nefer he rikab dey we duçerxi’o dîyay nezîki yê ki gulabî kenî .
+# translation = A person is constantly pedaling (and) coming on a bike near to this (one) who is picking pears.
+1	Yê	yê	DET	_	Definite=Ind|Number=Sing	2	det	_	_
+2	nefer	nefer	NOUN	_	Number=Sing	5	nsubj	_	_
+3	he	he	ADV	_	_	2	advmod:emph	_	_
+4	rikab	rikab	NOUN	_	Number=Sing	5	compound:lvc	_	_
+5	dey	dan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	we	we	ADP	_	_	7	case	_	_
+7	duçerxi’o	duçerxe	NOUN	_	Number=Sing	8	obl	_	_
+8	dîyay	hatin	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	_
+9	nezîki	nezîk	ADV	_	_	8	obl	_	_
+10	yê	yê	PRON	_	Number=Sing	9	det	_	_
+11	ki	ki	PRON	_	_	13	nsubj	_	_
+12	gulabî	gulabî	NOUN	_	Number=Sing	13	compound:lvc	_	_
+13	kenî	kenîn	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl:relcl	_	_
+14	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 96
+# text = Duçerxe rikab da .
+# translation = (He) pedaled the bike.
+1	Duçerxe	Duçerxe	NOUN	_	Number=Sing	3	nsubj	_	_
+2	rikab	rikab	NOUN	_	Number=Sing	3	compound:lvc	_	_
+3	da	dan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 97
+# text = Duçerxi rikab dey .
+# translation = (He) pedals the bike.
+1	Duçerxi	Duçerxe	NOUN	_	Number=Sing	3	nsubj	_	_
+2	rikab	rikab	NOUN	_	Number=Sing	3	compound:lvc	_	_
+3	dey	dan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 98
+# text = Ewêş hemçinan ley çerx dey .
+# translation = He also continually pedals up on it.
+1	Ewêş	Ewe	PRON	_	Number=Sing	6	nsubj	_	_
+2	hemçinan	hemçinan	ADV	_	_	1	advmod	_	_
+3-4	ley	_	_	_	_	_	_	_	_
+3	le	le	ADP	_	_	4	case	_	_
+4	y	y	PRON	_	Number=Sing|Person=3	6	obl	_	_
+5	çerx	çerx	NOUN	_	Number=Sing	6	compound:lvc	_	_
+6	dey	dan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 99
+# text = Rikab dey eray xoy .
+# translation = (He) is pedaling for himself.
+1	Rikab	Rikab	NOUN	_	Number=Sing	2	compound:lvc	_	_
+2	dey	dan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	eray	era	ADP	_	_	5	case	_	_
+4-5	xoy	_	_	_	_	_	_	_	_
+4	xo	xo	PRON	_	_	5	nmod	_	_
+5	y	y	PRON	_	_	2	obl	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 100
+# text = Yêkileyan xem dû kula’i kuře elgîrî .
+# translation = One of them bents (and) picks up the boy’s hat.
+1	Yêkileyan	Yêki	PRON	_	Definite=Ind|Number=Plur	3	nsubj	_	_
+2	xem	xem	ADJ	_	_	3	compound:lvc	_	_
+3	dû	bîgin	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	kula’i	kula	NOUN	_	Number=Sing	5	nmod	_	_
+5	kuře	kuř	NOUN	_	Number=Sing	6	obj	_	_
+6	elgîrî	elgîrtin	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
