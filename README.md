@@ -34,8 +34,8 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Talamo, Luigi; Asadpour, Hiwa; Verkerk, Annemarie; Vaz, Helena
+Contributors: Asadpour, Hiwa; Talamo, Luigi; Vaz, Helena; Verkerk, Annemarie
 Contributing: here
-Contact: luigi.talamo@uni-saarland.de
+Contact: asadpourhiwa@gmail.com
 ===============================================================================
 </pre>
